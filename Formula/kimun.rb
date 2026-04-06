@@ -1,8 +1,8 @@
 class Kimun < Formula
   desc "Code metrics tool — health score, complexity, duplication, hotspots, ownership"
   homepage "https://github.com/lnds/kimun"
-  url "https://github.com/lnds/kimun/archive/refs/tags/v0.17.0.tar.gz"
-  sha256 "c67287d0603739f4c45ba00f695080ad1c02a68841589473bd1f152474d0613f"
+  url "https://github.com/lnds/kimun/archive/refs/tags/v0.18.0.tar.gz"
+  sha256 "ea342fef4800297c00c65eec404e5311a46c8c7a3372bfde3eac56274e68b4af"
   license "MIT"
 
   depends_on "rust" => :build
